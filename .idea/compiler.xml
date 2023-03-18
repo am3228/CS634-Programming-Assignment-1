@@ -9,8 +9,5 @@
         <module name="CarText" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CS643Project" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>
