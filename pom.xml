@@ -42,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>net.njit.cc362.DetectText</mainClass>
+                            <mainClass>main.java.java.am3228.CarRecognize</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

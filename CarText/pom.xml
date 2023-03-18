@@ -42,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>main.java.am3228.DetectText</mainClass>
+                            <mainClass>main.java.net.am3228.CarText</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
