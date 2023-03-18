@@ -5,12 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>CarRecognize</artifactId>
+    <artifactId>CarText</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>CarText</module>
-    </modules>
+    <packaging>jar</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -45,7 +42,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>net.njit.cc362.DetectText</mainClass>
+                            <mainClass>main.java.am3228.DetectText</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
