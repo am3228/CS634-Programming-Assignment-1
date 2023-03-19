@@ -45,7 +45,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>main.java.java.am3228.CarRecognize</mainClass>
+                            <mainClass>java.am3228.CarRecognize</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
