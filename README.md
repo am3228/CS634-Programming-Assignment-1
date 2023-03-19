@@ -3,9 +3,7 @@
 
 # CS 643 Programming Assignment 1
 
-You have to build an image recognition pipeline in AWS, using two EC2 instances, S3, SQS, and Rekognition. The assignment must be done in Java on Amazon Linux VMs. For the rest of the description, you should refer to the figure below:
-
-fig1.jpg
+You have to build an image recognition pipeline in AWS, using two EC2 instances, S3, SQS, and Rekognition. The assignment must be done in Java on Amazon Linux VMs.
 
 ## Setting up your AWS
 
